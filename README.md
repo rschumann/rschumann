@@ -2,7 +2,7 @@
 
 **AI & Microservices Architect | DevOps & Agentic AI Specialist | 19+ Years of Experience**  
 _Madrid, Spain_  
-[LinkedIn](https://linkedin.com/in/sebastian-schkudlara) | [Website](https://jevvellabs.com) | sebastian.schkudlara@gmail.com
+[LinkedIn](https://linkedin.com/in/sebastian-schkudlara) | [Website](https://jevvellabs.com)
 
 ---
 
@@ -74,7 +74,6 @@ I'm Sebastian Schkudlara, an AI & Microservices Architect with nearly two decade
 
 ## 📫 Contact
 
-- Email: sebastian.schkudlara@gmail.com
 - LinkedIn: [linkedin.com/in/schkudlara](https://linkedin.com/in/sebastian-schkudlara)
 - Website: [jevvellabs.com](https://jevvellabs.com)
 
