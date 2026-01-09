@@ -1,4 +1,4 @@
-![Sebastian Schkudlara](https://raw.githubusercontent.com/rschumann/sebastian_schkudlara/main/profile_image_md.png)
+![Sebastian Schkudlara](https://github.com/rschumann/sebastian_schkudlara/blob/main/profile_image_md.png?raw=true)
 
 # 🕹️ PLAYER PROFILE
 
