@@ -5,7 +5,7 @@
 | 🎮 CLASS | **Senior Software Architect** (Lead / Senior) |
 | :--- | :--- |
 | **ORIGIN** | **Germany 🇩🇪 / Poland 🇵🇱** (Base: Germany 🇩🇪 / Spain 🇪🇸) |
-| **CONTACT** | [LinkedIn](https://linkedin.com/in/schkudlara) \| [Portfolio](https://jevvellabs.com/cv.html) |
+| **CONTACT** | [LinkedIn](https://linkedin.com/in/schkudlara) \| [Blog](https://jevvellabs.com) \| [Portfolio](https://jevvellabs.com/cv.html) |
 
 ## 🛡️ SKILL TREE
 
