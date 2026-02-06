@@ -1,12 +1,11 @@
-![Sebastian Schkudlara](https://github.com/rschumann/sebastian_schkudlara/blob/main/profile_image_md.png?raw=true)
+![Sebastian Schkudlara](https://github.com/rschumann/sebastian_schkudlara/blob/main/profile_image.png?raw=true)
 
 # 🕹️ PLAYER PROFILE
 
 | 🎮 CLASS | **Senior Software Architect** (Lead / Senior) |
 | :--- | :--- |
-| **ORIGIN** | **Germany 🇩🇪 / Poland 🇵🇱** (Base: Germany) |
-| **CONTACT** | [sebastian.schkudlara@gmail.com](mailto:sebastian.schkudlara@gmail.com) \| [LinkedIn](https://linkedin.com/in/schkudlara) \| [jevvellabs.com/cv.html](https://jevvellabs.com/cv.html) |
-| **INFO** | 🎧 [Audio CV](https://youtu.be/SesFjz6gWOc) \| 📞 \+34 603 769 903 \| \+49 175 1288106 |
+| **ORIGIN** | **Germany 🇩🇪 / Poland 🇵🇱** (Base: Germany 🇩🇪 / Spain 🇪🇸) |
+| **CONTACT** | [LinkedIn](https://linkedin.com/in/schkudlara) \| [Portfolio](https://jevvellabs.com/cv.html) |
 
 ## 🛡️ SKILL TREE
 
