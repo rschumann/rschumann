@@ -1,19 +1,24 @@
 ![Sebastian Schkudlara](https://github.com/rschumann/sebastian_schkudlara/blob/main/profile_image.png?raw=true)
 
+> *Senior Backend Architect turned Agentic AI Infrastructure specialist — 18+ years building distributed systems, now designing the tools and protocols that make autonomous AI agents work in production: routing proxies, P2P agent networks, A2A communication layers, and RAG pipelines engineered for scale. Open to senior/lead roles in AI-native companies (Remote EU/US).*
+
 # 🕹️ PLAYER PROFILE
 
 | 🎮 CLASS | **Senior Software Architect** (Lead / Senior) |
 | :--- | :--- |
 | **ORIGIN** | **Germany 🇩🇪 / Poland 🇵🇱** (Base: Germany 🇩🇪 / Spain 🇪🇸) |
-| **CONTACT** | [LinkedIn](https://linkedin.com/in/schkudlara) \| [Blog](https://jevvellabs.com) \| [Portfolio](https://jevvellabs.com/rschumann) |
+| **CONTACT** | [sebastian.schkudlara@gmail.com](mailto:sebastian.schkudlara@gmail.com) \| [LinkedIn](https://linkedin.com/in/schkudlara) \| [Portfolio](https://jevvellabs.com/rschumann) |
+| **AVAILABILITY** | Open to Remote (EU / US) \| Available Immediately |
 
 ## 🛡️ SKILL TREE
 
 | 🔴 **CORE TECH** | 🔵 **AI & DATA** | 🟢 **ARCHITECTURE** |
 | :--- | :--- | :--- |
-| **Ruby** (Rails), **Python** | **Agentic AI Architecture** | **Microservices** |
-| **PostgreSQL**, **Redis** | **Multi-Agent Orchestration** | **Event-Driven** (Kafka/RabbitMQ) |
-| **Solidity** (Smart Contracts) | **Tool Calling & Routing** | **Kubernetes**, **Docker**, **AWS/GCP** |
+| **Ruby** (Rails), **Python**, **FastAPI** | **Agentic AI Architecture** | **Microservices** |
+| **PostgreSQL**, **Redis**, **TypeScript** | **Multi-Agent Orchestration** | **Event-Driven** (Kafka/RabbitMQ) |
+| **Node.js**, **React** | **Tool Calling & Routing**, **MCP** | **Kubernetes**, **Docker**, **AWS/GCP** |
+| &nbsp; | **LangChain**, **PydanticAI** | &nbsp; |
+| &nbsp; | **Prompt Engineering** | &nbsp; |
 
 ## ⚔️ SPECIAL ABILITIES
 
@@ -34,7 +39,7 @@
 **Tech Stack:** Node.js, Puppeteer, Markdown AST, Express, REST API
 
 ### [Traylinx Stargate](https://github.com/traylinx/traylinx-stargate)
-**Creator & Lead Architect** | P2P networking plugin for agent-to-agent communication. Zero-trust identity with Ed25519, multi-transport support (NATS/libp2p), Circuit Relay v2 for NAT traversal, and production-ready mesh networking.  
+**Creator & Lead Architect** | P2P networking plugin for agent-to-agent communication. Zero-trust identity with Ed25519, multi-transport support (NATS/libp2p), Circuit Relay v2 for NAT traversal, and a production-ready mesh network for distributed AI agents.  
 **Tech Stack:** Python, P2P, NATS, libp2p, NAT Traversal, Zero-Trust
 
 ### [A2A Ruby SDK](https://github.com/traylinx/a2a-ruby)
@@ -49,7 +54,11 @@
 **Creator & Maintainer** | Enterprise-grade authentication clients for Traylinx Sentinel API with full A2A Protocol support. Available for [Python](https://github.com/traylinx/traylinx-auth-client-py) and [Node.js](https://github.com/traylinx/traylinx-auth-client-js) with OAuth 2.0, JWT, and secure token management.  
 **Tech Stack:** Python, JavaScript, OAuth 2.0, JWT, Security
 
-**Additional Projects:** [homebrew-traylinx](https://github.com/traylinx/homebrew-traylinx), [scoop-traylinx](https://github.com/traylinx/scoop-traylinx), [a2a-ruby-samples](https://github.com/traylinx/a2a-ruby-samples)
+**Additional Projects:** [homebrew-traylinx](https://github.com/traylinx/homebrew-traylinx), [scoop-traylinx](https://github.com/traylinx/scoop-traylinx), [a2a-ruby-samples](https://github.com/traylinx/a2a-ruby-samples), [google-drive-intelligent-mcp](https://github.com/traylinx/google-drive-intelligent-mcp)
+
+### [google-drive-intelligent-mcp](https://github.com/traylinx/google-drive-intelligent-mcp)
+**Creator** | Intelligent MCP (Model Context Protocol) server for Google Drive operations. Enables AI agents to autonomously discover, read, and manage Drive files via the standardised MCP interface.  
+**Tech Stack:** Node.js, MCP Protocol, Google Drive API, OAuth 2.0
 
 **GitHub Organizations:** [@traylinx](https://github.com/traylinx) | [@rschumann](https://github.com/rschumann)
 
