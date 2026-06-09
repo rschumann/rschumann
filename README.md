@@ -30,11 +30,11 @@
 
 ## 🌟 FEATURED BUILDS
 
-### [Tytus / TytusOS](https://traylinx.com/)
+### [Tytus](https://traylinx.com/) / [TytusOS](https://tytus-os.traylinx.com/)
 **Creator & Lead Architect** | Private AI pod platform: WireGuard-isolated compute, dedicated OpenAI-compatible gateway, stable per-user API keys, flat-rate model access, shared folders, and a local desktop OS for running OpenClaw, Hermes, Atomek, JULI3TA, and custom agents on dedicated infrastructure.<br>
 **Tech Stack:** Rust, Python, TypeScript, WireGuard, Docker, S3/Garage, OpenAI-compatible APIs, Local Web Desktop
 
-### [Makakoo OS](https://github.com/makakoo/makakoo-os)
+### [Makakoo OS](https://github.com/makakoo/makakoo-os) · [makakoo.com](https://makakoo.com/)
 **Creator & Lead Architect** | Open-source autonomous cognitive extension for AI CLIs. Gives Claude Code, Gemini, Codex, OpenCode, Vibe, Cursor, Qwen, pi, and IDE assistants one shared persistent Brain, Superbrain search, sandboxed plugins, MCP tools, proactive SANCHO tasks, and cross-session memory.<br>
 **Tech Stack:** Rust, Python, MCP, SQLite/FTS5, Vector Search, Logseq, Plugin Sandboxing, macOS/Linux/Windows
 
