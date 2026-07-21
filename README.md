@@ -1,6 +1,6 @@
 # Sebastian Schkudlara
 
-**Independent senior AI infrastructure and backend engineer | Spain / EU**
+**Independent senior AI infrastructure and backend engineer | Germany / Spain / Poland / EU**
 
 I design and harden production AI systems: multi-agent orchestration, secure model gateways, RAG infrastructure, evaluation pipelines, and governance controls.
 
@@ -58,7 +58,7 @@ Creator and maintainer. A Ruby SDK for Google's Agent2Agent protocol with JSON-R
 
 ## Working model
 
-- Independent B2B engagements in Spain and the EU
+- Independent B2B engagements across Germany, Spain, Poland, the wider EU, and remote international teams
 - Architecture, implementation, technical audits, and production hardening
 - Written-first communication and evidence-based delivery
 - German and Polish native; English and Spanish fluent
