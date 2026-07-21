@@ -1,79 +1,70 @@
-![Sebastian Schkudlara](https://github.com/rschumann/sebastian_schkudlara/blob/main/profile_image.png?raw=true)
+# Sebastian Schkudlara
 
-> *Senior Backend Architect turned Agentic AI Infrastructure specialist — 19+ years building distributed systems, now designing private AI pods, shared-memory agent operating systems, multi-CLI validation loops, OpenAI-compatible gateways, P2P agent networks, and RAG pipelines engineered for production scale. Open to senior/lead roles in AI-native companies (Remote EU/US).*
+**Independent senior AI infrastructure and backend engineer | Spain / EU**
 
-# 🕹️ PLAYER PROFILE
+I design and harden production AI systems: multi-agent orchestration, secure model gateways, RAG infrastructure, evaluation pipelines, and governance controls.
 
-| 🎮 CLASS | **Senior Software Architect** (Lead / Senior) |
-| :--- | :--- |
-| **ORIGIN** | **Germany 🇩🇪 / Poland 🇵🇱** (Base: Germany 🇩🇪 / Spain 🇪🇸) |
-| **CONTACT** | [sebastian.schkudlara@gmail.com](mailto:sebastian.schkudlara@gmail.com) \| [LinkedIn](https://linkedin.com/in/schkudlara) \| [Portfolio](https://jevvellabs.com/rschumann) |
-| **AVAILABILITY** | Open to Remote (EU / US) \| Available Immediately |
+I bring 19+ years of backend and distributed-systems experience, with current work focused on making AI systems secure, reproducible, and operational.
 
-## 🛡️ SKILL TREE
+Available for scoped B2B architecture, implementation, audits, and production hardening.
 
-| 🔴 **CORE TECH** | 🔵 **AI & DATA** | 🟢 **ARCHITECTURE** |
-| :--- | :--- | :--- |
-| **Rust**, **Python**, **Ruby** (Rails) | **Agentic AI Architecture** | **Microservices** |
-| **Go**, **TypeScript**, **FastAPI** | **Multi-Agent Orchestration** | **Event-Driven** (Kafka/RabbitMQ) |
-| **PostgreSQL**, **Redis**, **React** | **Tool Calling & Routing**, **MCP** | **Kubernetes**, **Docker**, **AWS/GCP** |
-| &nbsp; | **LLM Gateways**, **Multi-CLI Validation** | **WireGuard**, **S3-Compatible Storage** |
-| &nbsp; | **Prompt Engineering**, **RAG** | **Local-First Systems** |
+[Email](mailto:sebastian.schkudlara@gmail.com) | [LinkedIn](https://linkedin.com/in/schkudlara) | [Portfolio](https://jevvellabs.com/rschumann)
 
-## ⚔️ SPECIAL ABILITIES
+## Selected public work
 
-- **Polyglot**: 🇩🇪 German (Native), 🇵🇱 Polish (Native), 🇬🇧 English (Fluent), 🇪🇸 Spanish (Fluent).
-- **Hyper-Productivity**: Rapid prototyping, TDD, & deployment.
-- **Team Buff**: Mentorship, Team Building, & Technical Leadership.
+### [Makakoo OS](https://github.com/makakoo/makakoo-os)
 
----
+Creator and lead architect. A local-first operating layer that gives AI CLIs shared memory, search, sandboxed plugins, MCP tools, and cross-session automation across macOS, Linux, and Windows.
 
-## 🌟 FEATURED BUILDS
-
-### [Tytus](https://traylinx.com/) / [TytusOS](https://tytus-os.traylinx.com/)
-**Creator & Lead Architect** | Private AI pod platform: WireGuard-isolated compute, dedicated OpenAI-compatible gateway, stable per-user API keys, flat-rate model access, shared folders, and a local desktop OS for running OpenClaw, Hermes, Atomek, JULI3TA, and custom agents on dedicated infrastructure.<br>
-**Tech Stack:** Rust, Python, TypeScript, WireGuard, Docker, S3/Garage, OpenAI-compatible APIs, Local Web Desktop
-
-### [Makakoo OS](https://github.com/makakoo/makakoo-os) · [makakoo.com](https://makakoo.com/)
-**Creator & Lead Architect** | Open-source autonomous cognitive extension for AI CLIs. Gives Claude Code, Gemini, Codex, OpenCode, Vibe, Cursor, Qwen, pi, and IDE assistants one shared persistent Brain, Superbrain search, sandboxed plugins, MCP tools, proactive SANCHO tasks, and cross-session memory.<br>
-**Tech Stack:** Rust, Python, MCP, SQLite/FTS5, Vector Search, Logseq, Plugin Sandboxing, macOS/Linux/Windows
+**Relevant areas:** agent infrastructure, permissions, persistent knowledge, plugin systems, Python, Rust, MCP, SQLite/FTS5.
 
 ### [Lope](https://github.com/traylinx/lope)
-**Creator** | Multi-CLI validator ensemble for AI work: one agent implements, independent CLIs review, consensus-rank findings, export SARIF, remember recurring issues, and run council-style deliberation for ADRs, PRDs, migrations, incidents, research, and business plans.<br>
-**Tech Stack:** Python stdlib, Agent Orchestration, Multi-Model Review, SARIF, CLI Tooling, Makakoo Brain Integration
+
+Creator. A validator-in-the-loop workflow for multi-phase implementation, independent cross-model review, evidence gates, SARIF output, and recurring-finding memory.
+
+**Relevant areas:** AI evaluation, reproducible execution, audit trails, multi-agent coordination, Python, CLI tooling.
 
 ### [switchAILocal](https://github.com/traylinx/switchAILocal)
-**Creator & Lead Architect** | Unified AI gateway that bridges Gemini, Claude, Ollama, and CLI tools into a single OpenAI-compatible server. Features intelligent routing, load balancing, and autonomous self-healing with Superbrain intelligence.<br>
-**Tech Stack:** Go, AI Gateway, OpenAI API, LLM Routing, React UI
 
-### [Traylinx Stargate](https://github.com/traylinx/traylinx-stargate)
-**Creator & Lead Architect** | P2P networking plugin for agent-to-agent communication. Zero-trust identity with Ed25519, multi-transport support (NATS/libp2p), Circuit Relay v2 for NAT traversal, and a production-ready mesh network for distributed AI agents.<br>
-**Tech Stack:** Python, P2P, NATS, libp2p, NAT Traversal, Zero-Trust
+Creator and lead architect. A Go-based OpenAI-compatible gateway that provides a common interface over multiple model providers and local AI backends.
 
-### [A2A Ruby SDK](https://github.com/traylinx/a2a-ruby)
-**Creator & Maintainer** | Production-grade Ruby SDK for Google's Agent2Agent (A2A) Protocol. Seamless agent-to-agent communication via JSON-RPC 2.0, gRPC, and HTTP+JSON transports with full OAuth 2.0 support.<br>
-**Tech Stack:** Ruby, A2A Protocol, gRPC, OAuth 2.0, JSON-RPC
+**Relevant areas:** model routing, provider abstraction, API compatibility, gateway reliability, Go, observability.
 
-### [2md (Agentic Data Ingestion Engine)](https://2md.traylinx.com)
-**Creator** | High-fidelity HTML-to-Markdown conversion pipeline for AI agents. Features deep site crawling, batch processing, WAF/Cloudflare bypass with stealth Puppeteer, and automatic "AI Skill Bundle" generation via REST API.<br>
-**Tech Stack:** Node.js, Puppeteer, Markdown AST, Express, REST API
+### [Tytus CLI](https://github.com/traylinx/tytus-cli)
 
-### [google-drive-intelligent-mcp](https://github.com/traylinx/google-drive-intelligent-mcp)
-**Creator** | Intelligent MCP server for Google Drive operations. Enables AI agents to autonomously discover, read, and manage Drive files via the standardised MCP interface.<br>
-**Tech Stack:** Node.js, MCP Protocol, Google Drive API, OAuth 2.0
+Creator and lead architect. Public-beta tooling for private AI pods, WireGuard-isolated connectivity, a stable OpenAI-compatible gateway, shared files, and a local desktop environment.
 
-**Additional Projects:** [Tytus App Catalog](https://github.com/traylinx/tytus-app-catalog), [Traylinx CLI](https://github.com/traylinx/traylinx-cli), [Traylinx Auth Clients](https://github.com/traylinx/traylinx-auth-client-py), [homebrew-traylinx](https://github.com/traylinx/homebrew-traylinx), [scoop-traylinx](https://github.com/traylinx/scoop-traylinx), [a2a-ruby-samples](https://github.com/traylinx/a2a-ruby-samples)
+**Relevant areas:** AI infrastructure, isolation, networking, gateways, Rust, Python, WireGuard, S3-compatible storage.
 
-**GitHub Organizations:** [@makakoo](https://github.com/makakoo) | [@traylinx](https://github.com/traylinx) | [@rschumann](https://github.com/rschumann)
+### [Scoutica Protocol](https://github.com/traylinx/scoutica-protocol)
 
----
+Creator. An open protocol, schemas, and CLI for user-owned skill cards, deterministic opportunity matching, and auditable agent-mediated recruiting workflows.
 
-## 📑 Portfolio Hub
+**Relevant areas:** agent interoperability, JSON Schema, privacy boundaries, deterministic scoring, protocol design.
 
-Check out my full CV in your preferred format:
+### [A2A Ruby](https://github.com/traylinx/a2a-ruby)
 
-1.  **[Online Interactive Edition](https://jevvellabs.com/rschumann)**: Live webpage with neo-brutalist aesthetic and interactive skill trees.
-2.  **[High-Fidelity PDF](https://github.com/rschumann/sebastian_schkudlara/raw/main/Sebastian_Schkudlara_CV_2026.pdf)**: Polished, professional document.
-3.  **[Raw Markdown Edition](https://github.com/rschumann/sebastian_schkudlara/blob/main/Sebastian_Schkudlara_CV_2026.md)**: Clean, structured version.
+Creator and maintainer. A Ruby SDK for Google's Agent2Agent protocol with JSON-RPC, gRPC, and HTTP+JSON transports.
 
-### 📄 [Full Portfolio Repository](https://github.com/rschumann/sebastian_schkudlara)
+**Relevant areas:** agent-to-agent communication, SDK design, Ruby, transport abstraction, OAuth 2.0.
+
+## Engineering focus
+
+- Secure AI infrastructure and OpenAI-compatible gateways
+- Multi-agent orchestration, evaluation, and governance
+- RAG pipelines, model artifacts, and reproducible experiments
+- Distributed systems, APIs, packaging, CI/CD, and production hardening
+- Python, Rust, Go, Ruby, TypeScript, PostgreSQL, Redis, Docker, Kubernetes, AWS, and GCP
+
+## Working model
+
+- Independent B2B engagements in Spain and the EU
+- Architecture, implementation, technical audits, and production hardening
+- Written-first communication and evidence-based delivery
+- German and Polish native; English and Spanish fluent
+
+## Contact
+
+- Email: [sebastian.schkudlara@gmail.com](mailto:sebastian.schkudlara@gmail.com)
+- LinkedIn: [linkedin.com/in/schkudlara](https://linkedin.com/in/schkudlara)
+- Portfolio: [jevvellabs.com/rschumann](https://jevvellabs.com/rschumann)
