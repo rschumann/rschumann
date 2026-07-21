@@ -36,6 +36,12 @@ Creator and lead architect. Public-beta tooling for private AI pods, WireGuard-i
 
 **Relevant areas:** AI infrastructure, isolation, networking, gateways, Rust, Python, WireGuard, S3-compatible storage.
 
+### [2md](https://github.com/traylinx/2md)
+
+Creator. An open-source web-to-Markdown ingestion system for AI agents and RAG workflows, with JavaScript rendering, batch conversion, site crawling, sitemap discovery, and agent-ready output.
+
+**Relevant areas:** content extraction, web crawling, RAG ingestion, Puppeteer, Node.js, Express, Redis, and queue-based processing. [Live service](https://2md.traylinx.com/).
+
 ### [Scoutica Protocol](https://github.com/traylinx/scoutica-protocol)
 
 Creator. An open protocol, schemas, and CLI for user-owned skill cards, deterministic opportunity matching, and auditable agent-mediated recruiting workflows.
