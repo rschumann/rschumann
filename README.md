@@ -48,6 +48,18 @@ Creator and maintainer. A Ruby SDK for Google's Agent2Agent protocol with JSON-R
 
 **Relevant areas:** agent-to-agent communication, SDK design, Ruby, transport abstraction, OAuth 2.0.
 
+## Public products and services
+
+- **[Traylinx](https://traylinx.com/)** — Private AI infrastructure and control surface for pods, gateways, shared folders, agents, API access, and account management.
+
+- **[Tytus OS](https://tytus-os.traylinx.com/)** — Public-beta local desktop and CLI for private AI pods, WireGuard connectivity, an OpenAI-compatible gateway, shared files, and agent applications.
+
+- **[2md](https://2md.traylinx.com/)** — Converts web pages and sites into clean Markdown for AI agents and RAG workflows, including JavaScript-rendered pages, crawling, and sitemap discovery.
+
+- **[Makakoo](https://makakoo.com/)** — Open-source local-first operating layer that gives AI CLIs shared memory, search, tools, plugins, and cross-session context.
+
+- **[Traylinx Agentic Search](https://search.traylinx.com/)** — OpenAI-compatible multi-source web search and URL extraction with reranking, scraping, and cited summaries.
+
 ## Engineering focus
 
 - Secure AI infrastructure and OpenAI-compatible gateways
